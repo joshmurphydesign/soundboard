@@ -1,4 +1,4 @@
-<! Your Screenshot goes here -->
+<!-- Your Screenshot goes here -->
 
 # Will Ferrell Sound Board
 All the funny things associated with Will Ferrell
