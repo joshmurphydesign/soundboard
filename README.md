@@ -1,7 +1,5 @@
-<!-- Your Screenshot goes here -->
-
-# Will Ferrell Sound Board
-All the funny things associated with Will Ferrell
+# Funny TV/Movie sounds Sound Board
+All the funny things associated with the best tv/movie scenes
 
 # Citations
 * I found my sounds at...
