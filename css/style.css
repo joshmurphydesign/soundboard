@@ -1,23 +1,26 @@
 /* Set Fonts and Resets */
 body,
 html {
-  background-image: url("https://media.istockphoto.com/id/1336937059/photo/film-reels-on-black-background-movie-video-and-cinema-prodaction-and-edition-concept.jpg?b=1&s=170667a&w=0&k=20&c=3Y_OD6qSJIP-9DNcNk-yIZ7CrcOJOLpFr2jfWIbegZA=");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background-image: url("https://media.istockphoto.com/id/680810342/photo/dog-watching-tv-on-the-couch.jpg?s=612x612&w=0&k=20&c=CQXmfuqlwL49GhcLDXIQSEZwq3iGpIkPJneWJUiI_0U=");
   margin: 0;
   overflow-x: hidden;
   padding: 0;
+  background-position: center top;
+    background-size: 100% auto;
+}
+
+img.bg {
+  /* Set rules to fill background */
+  width: 100%;
 }
 
 h1{
   font-family: 'Striper-Regular';
-  font-size: 3.5em;
+  font-size: 3.25em;
   font-weight: 300;
-  color: white;
+  color: black;
   margin: 0;
-  padding: 0;
+  padding: .5em;
   margin-bottom: 10em;
 }
 
@@ -56,6 +59,7 @@ kbd {
   -webkit-box-pack: center;
           justify-content: center;
   position: absolute;
+  margin: auto;
 }
 
 /* Visual Keys / Squares */
@@ -70,6 +74,7 @@ kbd {
   text-align: center;
   /* outline: 1px solid black; */
   background-color: #ffffff;
+  border-radius: 10%;
   
   /* Change mouse pointer */
   cursor:pointer;
